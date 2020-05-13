@@ -1,0 +1,11 @@
+{
+  "name": "organize-imports",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:mathieumg/organize-imports.git",
+  "author": "Mathieu M-Gosselin <mathieumg@gmail.com>",
+  "license": "NONE",
+  "dependencies": {
+    "typescript": "^3.9.2"
+  }
+}
